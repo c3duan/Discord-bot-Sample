@@ -1,4 +1,4 @@
-###Complete Discord Bot Template to get Started
+### Complete Discord Bot Template to get Started
 - Uses discord.js
 - Efficient and clean command handler
 
