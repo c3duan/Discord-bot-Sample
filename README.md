@@ -18,4 +18,12 @@
 - server
 - user-info
 
+## More Infos
+- If you are interested in more advanced API fetching commands, check out my own discord bot: **[Swag-Bot]**(https://github.com/c3duan/Swag-Bot) 
+- If you plan on using any of the commands from Swag-Bot, please give me credit
+- Hope my dicord-bot helped you :)
+- It will be great if you starred Swag-Bot <3
+
+
+
 
